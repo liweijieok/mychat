@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff">
+
+    <LinearLayout
+        android:id="@+id/id_show_lv"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/black_top"
+        android:orientation="horizontal">
+
+        <TextView
+            android:id="@+id/id_show_back"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="2dp"
+            android:background="@drawable/back_btn_selector"
+            android:gravity="center_vertical"
+            android:paddingRight="5dp"/>
+        <!-- android:minWidth="50dp" -->
+
+        <TextView
+            android:id="@+id/id_show_title"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_vertical"
+            android:gravity="center_vertical"
+            android:text="@string/app_name"
+            android:textColor="#99000000"
+            android:textSize="18sp"/>
+    </LinearLayout>
+
+    <GridView
+        android:id="@+id/id_show_gridview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/id_show_lv"
+        android:cacheColorHint="@android:color/transparent"
+        android:horizontalSpacing="3dp"
+        android:listSelector="@android:color/transparent"
+        android:numColumns="3"
+        android:stretchMode="columnWidth"
+        android:verticalSpacing="3dp">
+    </GridView>
+
+</RelativeLayout>

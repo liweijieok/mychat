@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <RelativeLayout
+        android:id="@+id/rl_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/activity_main_tab_title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/black_top"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:id="@+id/id_one_pic_ib"
+            android:layout_width="@dimen/activity_btn_height_login_and_register"
+            android:layout_height="fill_parent"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_click_goback"
+            android:src="@drawable/goback_left" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="图片选择"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/activity_Textsize20_4.0" />
+
+        <Button
+            android:id="@+id/id_one_pic_ib1"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_click1"
+            android:text="清空"
+            android:textColor="@color/login_btn_text_color" />
+    </RelativeLayout>
+
+
+    <LinearLayout
+        android:id="@+id/rl_layout_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/activity_main_tab_title_height"
+        android:layout_alignParentBottom="true"
+        android:background="@color/black_top"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <TextView
+            android:gravity="center"
+            android:id="@+id/id_one_pic_b1"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="50dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_click1"
+            android:textColor="@color/login_btn_text_color" />
+
+        <Button
+            android:id="@+id/id_one_pic_b2"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:layout_weight="1"
+            android:background="@drawable/btn_click1"
+            android:text="确定"
+            android:textColor="@color/login_btn_text_color" />
+    </LinearLayout>
+    <android.support.v4.view.ViewPager
+        android:layout_below="@id/rl_layout"
+        android:id="@+id/id_one_pic_vp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_above="@+id/rl_layout_bottom"
+        android:padding="20dp"></android.support.v4.view.ViewPager>
+
+</RelativeLayout>

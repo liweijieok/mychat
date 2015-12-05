@@ -1,0 +1,26 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#ffffff"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/tv"
+        android:background="#333333"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:gravity="center"
+        android:text="图片查看"
+        android:textColor="#ffffff"
+        android:textSize="20sp"/>
+
+    <android.support.v4.view.ViewPager
+        android:layout_below="@id/tv"
+        android:id="@+id/id_photo_viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp">
+    </android.support.v4.view.ViewPager>
+
+</RelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/activity_photo.xml -->

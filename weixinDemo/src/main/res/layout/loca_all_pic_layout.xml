@@ -1,0 +1,99 @@
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/black_top">
+
+    <RelativeLayout
+        android:id="@+id/rl_layout"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/activity_main_tab_title_height"
+        android:layout_alignParentTop="true"
+        android:background="@color/black_top"
+        android:gravity="center_vertical">
+
+        <ImageButton
+            android:id="@+id/id_local_all_ib"
+            android:layout_width="@dimen/activity_btn_height_login_and_register"
+            android:layout_height="fill_parent"
+            android:layout_centerVertical="true"
+            android:background="@drawable/btn_click_goback"
+            android:src="@drawable/goback_left"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerInParent="true"
+            android:text="图片选择"
+            android:textColor="#ffffff"
+            android:textSize="@dimen/activity_Textsize20_4.0"/>
+
+        <Button
+            android:id="@+id/id_local_all_ib1"
+            android:layout_width="60dp"
+            android:layout_height="30dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerInParent="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_click1"
+            android:text="清空"
+            android:textColor="@color/login_btn_text_color"/>
+    </RelativeLayout>
+
+    <ListView
+        android:id="@+id/id_local_all_listview"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentBottom="true"
+        android:layout_below="@id/rl_layout"
+        android:background="#ffffff"
+        android:descendantFocusability="blocksDescendants"
+        android:divider="#eee3d9"
+        android:dividerHeight="1px">
+    </ListView>
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:id="@+id/rl_layout_bottom"
+        android:layout_width="fill_parent"
+        android:layout_height="@dimen/activity_main_tab_title_height"
+        android:layout_alignParentBottom="true"
+        android:background="@color/black_top"
+        android:gravity="center_vertical">
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/id_local_all_ib2"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btn_click1"
+            android:layout_marginRight="50dp"
+            android:text="预览"
+            android:textColor="@color/login_btn_text_color"/>
+
+        <Button
+            android:layout_marginRight="50dp"
+            android:layout_weight="1"
+            android:id="@+id/id_local_all_ib4"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_marginLeft="10dp"
+            android:background="@drawable/btn_click1"
+            android:text=""
+            android:textColor="@color/login_btn_text_color"/>
+
+        <Button
+            android:layout_weight="1"
+            android:id="@+id/id_local_all_ib3"
+            android:layout_width="0dp"
+            android:layout_height="35dp"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="10dp"
+            android:background="@drawable/btn_click1"
+            android:text="发送"
+            android:textColor="@color/login_btn_text_color"/>
+    </LinearLayout>
+
+</RelativeLayout>

@@ -1,0 +1,5 @@
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\weixindemo\adapter\ChatMsgViewAdapter$1.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\weixindemo\adapter\ChatMsgViewAdapter$2.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\weixindemo\adapter\ChatMsgViewAdapter.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\weixindemo\adapter\ChatMsgViewAdapter$1$1.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\1\1\main\com\example\weixindemo\adapter\ChatMsgViewAdapter$ViewHolder.class

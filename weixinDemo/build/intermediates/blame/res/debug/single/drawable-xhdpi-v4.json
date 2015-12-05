@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\chatto_bg_focused.9.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-xhdpi\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    }
+]

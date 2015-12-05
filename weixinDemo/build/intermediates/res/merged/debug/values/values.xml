@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/values/colors.xml -->
+    <eat-comment/>
+    <color name="black"> #000000</color>
+    <color name="black1"> #111111</color>
+    <color name="black20"> #20000000</color>
+    <color name="black3"> #333333</color>
+    <color name="black40"> #40000000</color>
+    <color name="black60"> #60000000</color>
+    <color name="black90"> #90000000</color>
+    <color name="black_bottom">#10131b</color>
+    <color name="black_top">#1b1e26</color>
+    <color name="black_top90">#dd1b1e26</color>
+    <color name="blue">#33d9fd</color>
+    <color name="border_color">#d1d0d5</color>
+    <color name="btn1_disable">#485B5B5B</color>
+    <color name="btn_down1">#77a035</color>
+    <color name="btn_down2">#d1d0d5</color>
+    <color name="btn_exit_down">#fa4747</color>
+    <color name="btn_exit_nomal">#ff6868</color>
+    <color name="btn_nomal1">#cc77a035</color>
+    <color name="btn_nomal2">#f5f5f5</color>
+    <color name="gray"> #747474</color>
+    <color name="grey"> #808080</color>
+    <color name="login_btn_text_color">#dedede</color>
+    <color name="red"> #FF0000</color>
+    <color name="text_color">#88333333</color>
+    <color name="text_color75">#cc333333</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent10">#10ffffff</color>
+    <color name="transparent20">#20ffffff</color>
+    <color name="transparent30">#30ffffff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white40">#40F5F5F5</color>
+    <color name="white48">#48FFFFFF</color>
+    <color name="white90">#90F5F5F5</color>
+    <color name="white_backgroud_color">#e7e6eb</color>
+    <color name="window_bg">#030303</color>
+    <!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/values/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_Textsize10_4.0">10sp</dimen>
+    <dimen name="activity_Textsize12_4.0">12sp</dimen>
+    <dimen name="activity_Textsize15_4.0">15sp</dimen>
+    <dimen name="activity_Textsize20_4.0">20sp</dimen>
+    <dimen name="activity_btn_height_login_and_register">40dp</dimen>
+    <dimen name="activity_btn_reg_height_login_and_register">20dp</dimen>
+    <dimen name="activity_btn_reg_width_login_and_register">45dp</dimen>
+    <dimen name="activity_chatmain_maxems4.0">9dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_img_hight_login">100dp</dimen>
+    <dimen name="activity_img_hight_login_and_register">40dp</dimen>
+    <dimen name="activity_img_widht_login_and_register">20dp</dimen>
+    <dimen name="activity_main_bottom_bar">55dp</dimen>
+    <dimen name="activity_main_tab_title_height">45dp</dimen>
+    <dimen name="activity_main_team4.0_layout_height">55dp</dimen>
+    <dimen name="activity_main_working4.0_layout_height">90dp</dimen>
+    <dimen name="activity_margin10_4.0">10dp</dimen>
+    <dimen name="activity_margin15_4.0">15dp</dimen>
+    <dimen name="activity_margin20_4.0">20dp</dimen>
+    <dimen name="activity_margin30_4.0">30dp</dimen>
+    <dimen name="activity_margin3_4.0">3dp</dimen>
+    <dimen name="activity_margin5_4.0">5dp</dimen>
+    <dimen name="activity_margin8_4.0">8dp</dimen>
+    <dimen name="activity_padding10_4.0">10dp</dimen>
+    <dimen name="activity_padding15_4.0">15dp</dimen>
+    <dimen name="activity_padding20_4.0">20dp</dimen>
+    <dimen name="activity_padding3_4.0">1dp</dimen>
+    <dimen name="activity_padding5_4.0">5dp</dimen>
+    <dimen name="activity_padding8_4.0">8dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_cancel">松开 取消</string>
+    <string name="action_recorderint">松开 结束</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_state_nomal">按住 说话</string>
+    <string name="app_name">   微信聊天</string>
+    <string name="hello_world">Hello world!</string>
+    <!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/values/styles.xml -->
+    <eat-comment/>
+    <style name="AppBaseTheme" parent="android:Theme.Light"/>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="Theme_AudioDialog">
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:backgroundDimEnabled">false</item>
+    </style>
+    <style name="chat_content_date_style">
+            <item name="android:minHeight">50dp</item>
+	    <item name="android:gravity">left|center</item>    
+		<item name="android:textColor">#000000</item>   
+		<item name="android:textSize">15sp</item>      
+		<item name="android:lineSpacingExtra">2dp</item>   
+		<item name="android:clickable">true</item>   
+		<item name="android:focusable">true</item>   
+		<item name="android:background">#bfbfbf</item> 
+       </style>
+    <style name="chat_text_date_style">
+           <item name="android:padding">2dp</item>
+           <item name="android:textColor">#ffffff</item>
+           <item name="android:textSize">12sp</item>
+           <item name="android:background">#bfbfbf</item>
+       </style>
+    <style name="chat_text_name_style">
+           <item name="android:textColor">#818181</item>   
+		<item name="android:textSize">15sp</item>      
+		<item name="android:gravity">center</item> 
+       </style>
+</resources>

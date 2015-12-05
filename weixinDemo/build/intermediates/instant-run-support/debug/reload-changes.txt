@@ -1,0 +1,8 @@
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\example\weixindemo\adapter\ChatMsgViewAdapter$1$override.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\example\weixindemo\adapter\ChatMsgViewAdapter$3$override.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\example\weixindemo\adapter\ChatMsgViewAdapter$2$override.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\example\weixindemo\adapter\ChatMsgViewAdapter$override.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\example\weixindemo\adapter\ChatMsgViewAdapter$1$1$override.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\example\weixindemo\adapter\ChatMsgViewAdapter$ViewHolder$override.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\example\weixindemo\adapter\ChatMsgViewAdapter$IMsgViewType$override.class
+C:\Users\user\Desktop\WeixinDemo1\MyChat\weixinDemo\build\intermediates\transforms\instantRun\debug\folders\4000\1\enhanced\com\android\build\gradle\internal\incremental\AppPatchesLoaderImpl.class
