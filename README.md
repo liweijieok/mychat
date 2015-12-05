@@ -24,3 +24,5 @@
 ![](http://ww4.sinaimg.cn/bmiddle/c42a5261gw1eyovzokddnj20k00zkgnr.jpg)
 ![](http://ww2.sinaimg.cn/bmiddle/c42a5261gw1eyovzp80zej20k00zk0xo.jpg)
 ![](http://ww1.sinaimg.cn/bmiddle/c42a5261gw1eyovzptls1j20k00zkgot.jpg)
+
+注：本demo的原型是一位名为廖乃波的人写的，本人是将其改进有优化，他写的部分包括表情显示和自定义表情的View以及部分适配器和bean
