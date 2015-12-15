@@ -70,4 +70,3 @@
          android:layout_below="@id/Top" />
 
 </RelativeLayout>
-<!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/activity_camera.xml -->

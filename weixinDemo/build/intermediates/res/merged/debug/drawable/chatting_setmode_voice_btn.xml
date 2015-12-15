@@ -7,4 +7,4 @@
     <item android:drawable="@drawable/chatting_setmode_msg_btn_normal" android:state_enabled="true"/>
     <item android:drawable="@drawable/chatting_setmode_msg_btn_pressed" android:state_enabled="false"/>
 
-</selector><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/drawable/chatting_setmode_voice_btn.xml -->
+</selector>

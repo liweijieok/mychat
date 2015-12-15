@@ -22,4 +22,4 @@
         android:clickable="false"
         android:src="@drawable/picture_unselected" />
 
-</RelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/local_pic__detail_item.xml -->
+</RelativeLayout>

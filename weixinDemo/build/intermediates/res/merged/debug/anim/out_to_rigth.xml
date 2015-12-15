@@ -8,4 +8,4 @@
     android:toXDelta="100%p"
     android:duration="500">
 	</translate>
-</set><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/anim/out_to_rigth.xml -->
+</set>

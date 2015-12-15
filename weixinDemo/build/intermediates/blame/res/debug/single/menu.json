@@ -4,6 +4,10 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\menu\\main.xml"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\menu\\main.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\menu\\main.xml"
     }

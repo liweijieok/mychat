@@ -12,4 +12,3 @@
         android:layout_height="match_parent"
         android:scaleType="centerCrop"/>
 </LinearLayout>
-<!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/photo_activity_layout.xml -->

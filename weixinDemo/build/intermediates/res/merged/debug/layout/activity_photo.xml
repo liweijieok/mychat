@@ -23,4 +23,4 @@
         android:padding="10dp">
     </android.support.v4.view.ViewPager>
 
-</RelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/activity_photo.xml -->
+</RelativeLayout>

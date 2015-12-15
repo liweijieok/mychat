@@ -84,4 +84,4 @@
                 android:gravity="right|center"
                 ></ImageView>
     </RelativeLayout>
-</LinearLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/chat_left.xml -->
+</LinearLayout>

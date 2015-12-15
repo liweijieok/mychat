@@ -6,4 +6,3 @@
     <item android:state_focused="true" android:drawable="@drawable/chatting_setmode_biaoqing_btn_focused" />
     <item android:drawable="@drawable/chatting_setmode_biaoqing_btn_normal" />
 </selector>
-<!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/drawable/chatting_setmode_biaoqing_btn.xml -->

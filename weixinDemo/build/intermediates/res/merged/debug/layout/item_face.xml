@@ -13,4 +13,4 @@
         android:layout_centerInParent="true"
         android:scaleType="fitCenter" />
 
-</RelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/item_face.xml -->
+</RelativeLayout>

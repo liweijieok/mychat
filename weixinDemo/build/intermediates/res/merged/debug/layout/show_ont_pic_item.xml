@@ -25,4 +25,4 @@
         android:layout_marginRight="10dp"
         android:src="@drawable/picture_unselected"
         android:layout_gravity="right|bottom" />
-</FrameLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/show_ont_pic_item.xml -->
+</FrameLayout>

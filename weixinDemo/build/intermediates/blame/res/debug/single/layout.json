@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_popubwindows.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\item_popubwindows.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\show_ont_pic_item.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\show_ont_pic_item.xml"
     },
@@ -8,12 +12,12 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\chat.xml"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_right.xml",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\chat_right.xml"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_face.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\item_face.xml"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\local_pic__detail_item.xml",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\local_pic__detail_item.xml"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_right.xml",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\chat_right.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_bucket.xml",
@@ -24,8 +28,32 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\local_pic_detail_layout.xml"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\show_one_pic_layout.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\show_one_pic_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_recorder_layout.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\dialog_recorder_layout.xml"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\activity_camera.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\face_relativelayout.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\face_relativelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\show_ont_pic_item.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\show_ont_pic_item.xml"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\local_pic__detail_item.xml",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\local_pic__detail_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\local_pic_detail_layout.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\local_pic_detail_layout.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\photo_activity_layout.xml",
@@ -36,6 +64,42 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\local_all_pic_item.xml"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_recorder_layout.xml",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\dialog_recorder_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\local_pic__detail_item.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\local_pic__detail_item.xml"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_grid.xml",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\item_image_grid.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pictures_show.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\activity_pictures_show.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\show_picture_item_iv.xml",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\show_picture_item_iv.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\face_relativelayout.xml",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\face_relativelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\photo_activity_layout.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\photo_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\local_all_pic_item.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\local_all_pic_item.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\local_pic__detail_item.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\local_pic__detail_item.xml"
     },
@@ -44,52 +108,52 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\local_all_pic_item.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\activity_photo.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_popubwindows.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\item_popubwindows.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_recorder_layout.xml",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\dialog_recorder_layout.xml"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_image_grid.xml",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\item_image_grid.xml"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\show_picture_item_iv.xml",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\show_picture_item_iv.xml"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_bucket.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\activity_image_bucket.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\chat.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\face_relativelayout.xml",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\face_relativelayout.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_left.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\chat_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\chat.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_left.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\chat_left.xml"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\voice_rcd_hint_window.xml",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\voice_rcd_hint_window.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pictures_show.xml",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\activity_pictures_show.xml"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\show_picture_item_iv.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\show_picture_item_iv.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_right.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\chat_right.xml"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_pictures_show.xml",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\activity_pictures_show.xml"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_left.xml",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\chat_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\activity_camera.xml"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\local_pic_detail_layout.xml",
@@ -100,8 +164,20 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\item_image_bucket.xml"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_grid_item.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\adapter_grid_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\activity_photo.xml"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\face_relativelayout.xml",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\face_relativelayout.xml"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\loca_all_pic_layout.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\loca_all_pic_layout.xml"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_photo.xml",
@@ -112,16 +188,20 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_popubwindows.xml",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\item_popubwindows.xml"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\activity_camera.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\show_one_pic_layout.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\show_one_pic_layout.xml"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\activity_camera.xml",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\activity_camera.xml"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_popubwindows.xml",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\item_popubwindows.xml"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\loca_all_pic_layout.xml",
@@ -136,15 +216,19 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\item_face.xml"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\chat_right.xml",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\layout\\chat_right.xml"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\item_face.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\item_face.xml"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\loca_all_pic_layout.xml",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\loca_all_pic_layout.xml"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_grid_item.xml",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\layout\\adapter_grid_item.xml"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\layout\\loca_all_pic_layout.xml",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\layout\\loca_all_pic_layout.xml"
     }
 ]

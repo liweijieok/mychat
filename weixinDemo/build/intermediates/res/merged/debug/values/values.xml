@@ -1,7 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/values/colors.xml -->
-    <eat-comment/>
     <color name="black"> #000000</color>
     <color name="black1"> #111111</color>
     <color name="black20"> #20000000</color>
@@ -37,8 +35,6 @@
     <color name="white90">#90F5F5F5</color>
     <color name="white_backgroud_color">#e7e6eb</color>
     <color name="window_bg">#030303</color>
-    <!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/values/dimens.xml -->
-    <eat-comment/>
     <dimen name="activity_Textsize10_4.0">10sp</dimen>
     <dimen name="activity_Textsize12_4.0">12sp</dimen>
     <dimen name="activity_Textsize15_4.0">15sp</dimen>
@@ -69,16 +65,12 @@
     <dimen name="activity_padding5_4.0">5dp</dimen>
     <dimen name="activity_padding8_4.0">8dp</dimen>
     <dimen name="activity_vertical_margin">16dp</dimen>
-    <!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/values/strings.xml -->
-    <eat-comment/>
     <string name="action_cancel">松开 取消</string>
     <string name="action_recorderint">松开 结束</string>
     <string name="action_settings">Settings</string>
     <string name="action_state_nomal">按住 说话</string>
     <string name="app_name">   微信聊天</string>
     <string name="hello_world">Hello world!</string>
-    <!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/values/styles.xml -->
-    <eat-comment/>
     <style name="AppBaseTheme" parent="android:Theme.Light"/>
     <style name="AppTheme" parent="AppBaseTheme">
         <!-- All customizations that are NOT specific to a particular API-level can go here. -->

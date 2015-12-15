@@ -4,4 +4,4 @@
     <item android:drawable="@drawable/backw" android:state_pressed="false"></item>
     <item android:drawable="@drawable/backwclick" android:state_pressed="true"></item>
 
-</selector><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/drawable/back_btn_selector.xml -->
+</selector>

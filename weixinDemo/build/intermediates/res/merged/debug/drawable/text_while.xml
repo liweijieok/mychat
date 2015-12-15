@@ -5,4 +5,4 @@
     <item android:state_focused="true" android:color="#5afea0"/>
     <item android:color="#ffffff"/> 
 
-</selector><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/drawable/text_while.xml -->
+</selector>

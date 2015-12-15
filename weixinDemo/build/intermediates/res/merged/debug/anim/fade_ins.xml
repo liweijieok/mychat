@@ -3,4 +3,3 @@
     android:duration="200"
     android:fromAlpha="0.0"
     android:toAlpha="1.0" />
-<!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/anim/fade_ins.xml -->

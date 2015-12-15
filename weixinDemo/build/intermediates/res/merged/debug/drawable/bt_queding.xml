@@ -8,4 +8,4 @@
 				android:drawable="@drawable/icon_queding_focused" />
 		<item
 				android:drawable="@drawable/icon_queding_unfocused" />
-</selector><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/drawable/bt_queding.xml -->
+</selector>

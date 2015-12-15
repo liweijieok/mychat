@@ -43,4 +43,4 @@
         android:verticalSpacing="20dp" >
     </GridView>
 
-</LinearLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/activity_image_bucket.xml -->
+</LinearLayout>

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
     },

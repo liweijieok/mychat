@@ -5,4 +5,4 @@
     <item android:state_pressed="true" android:drawable="@drawable/mm_title_btn_pressed" />
     <item android:state_selected="true" android:drawable="@drawable/mm_title_btn_pressed" />
     <item android:drawable="@drawable/mm_title_btn_normal" />
-</selector><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/drawable/title_btn_right.xml -->
+</selector>

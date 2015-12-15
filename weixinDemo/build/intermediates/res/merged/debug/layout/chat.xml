@@ -48,4 +48,4 @@
         android:stackFromBottom="true"
        />
 
-    </RelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/chat.xml -->
+    </RelativeLayout>

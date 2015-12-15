@@ -8,4 +8,4 @@
 				android:drawable="@drawable/icon_quxiao_focused" />
 		<item
 				android:drawable="@drawable/icon_quxiao_unfocused" />
-</selector><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/drawable/bt_quxiao.xml -->
+</selector>

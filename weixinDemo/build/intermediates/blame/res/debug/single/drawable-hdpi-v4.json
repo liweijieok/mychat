@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_58.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_58.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_17.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_17.png"
     },
@@ -12,8 +16,16 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_184.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recorder.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\recorder.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_188.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_188.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_85.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_85.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_16.png",
@@ -48,6 +60,10 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp4.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_41.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_41.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_focused.9.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.9.png"
     },
@@ -68,6 +84,14 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_184.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_focused.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_dir.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_197.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_197.png"
     },
@@ -84,16 +108,24 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_77.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_48.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_48.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_edit_normal.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\login_edit_normal.9.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_27.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_27.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_185.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_185.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_27.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_27.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_48.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_48.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_27.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_27.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_191.png",
@@ -104,12 +136,36 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\iv_face_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_194.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_194.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_unselected.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_50.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_50.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_data_select.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\renma.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\renma.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\you.jpg",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\you.jpg"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_57.png",
@@ -120,20 +176,32 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_20.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_contact_normal.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_contact_normal.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_70.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_70.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_25.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_25.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v3.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v3.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_55.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_55.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_80.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_80.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_55.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_55.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_25.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_25.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_188.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_188.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_dir.png",
@@ -144,12 +212,20 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_11.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_16.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_16.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_50.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_50.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_193.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_193.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_83.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_83.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_30.png",
@@ -160,20 +236,36 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_13.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_13.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_selected.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d2.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\d2.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_13.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_13.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_75.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_75.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f3.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_68.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_68.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_50.png",
@@ -192,12 +284,20 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_78.png"
     },
     {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d1.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\d1.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\recorder.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\recorder.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d1.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\d1.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_15.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_15.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_62.png",
@@ -208,56 +308,104 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_29.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_29.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_86.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_86.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_20.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_20.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_dafeult.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\face_del_ico_dafeult.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_189.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_189.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_39.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_39.png"
     },
     {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_dafeult.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\face_del_ico_dafeult.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v6.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v6.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abaose.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\abaose.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_31.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_31.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_195.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_195.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_46.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_46.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_function.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_btn_function.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_47.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_47.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_196.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_196.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_btn_pressed.9.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_btn_pressed.9.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_btn_pressed.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_btn_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_dafeult.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\face_del_ico_dafeult.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_btn_pressed.9.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_btn_pressed.9.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_dafeult.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\face_del_ico_dafeult.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adj.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\adj.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_52.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_52.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_41.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_41.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rcd_cancel_icon.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\rcd_cancel_icon.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_btn_pressed.9.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_cancel_bg.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp5.png",
@@ -268,16 +416,20 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_btn_disable.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_47.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_47.png"
-    },
-    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_47.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_47.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_73.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_73.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_focused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_focused.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_43.png",
@@ -292,6 +444,10 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_77.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_57.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_57.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_83.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_83.png"
     },
@@ -304,6 +460,10 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_84.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_function_bg.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_function_bg.9.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rcd_cancel_icon.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\rcd_cancel_icon.png"
     },
@@ -312,12 +472,32 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_pressed.9.png"
     },
     {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_189.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_189.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_56.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_56.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_189.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_189.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_44.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_44.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_footer_bg.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chat_footer_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_190.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_190.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaohei_big.jpg",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\xiaohei_big.jpg"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_30.png",
@@ -340,6 +520,10 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_21.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v4.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v4.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_cancel_bg_focused.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg_focused.png"
     },
@@ -350,6 +534,10 @@
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_185.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_185.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_pressed.9.png",
@@ -364,76 +552,76 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_192.png"
     },
     {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_12.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_12.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v3.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v3.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_12.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_12.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_25.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_25.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_85.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_85.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_22.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_22.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_pressed.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_22.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_22.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_62.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_62.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_pressed.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\face_del_ico_pressed.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_normal.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_pressed.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\face_del_ico_pressed.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_62.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_62.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_81.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_81.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_46.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_46.png"
-    },
-    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_91.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_91.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_46.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_46.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_82.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_82.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_30.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_30.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_65.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_65.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v2.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tupian.jpg",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\tupian.jpg"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_14.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_14.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_compose_normal.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_compose_normal.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_btn_nor.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\camera_btn_nor.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shuaige.png",
@@ -448,36 +636,36 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\login_edit_normal.9.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_72.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_72.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_footer_bg.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chat_footer_bg.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_181.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_181.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_footer_bg.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chat_footer_bg.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_bar.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_77.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_77.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_29.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_29.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_msg_btn_pressed.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_msg_btn_pressed.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tupian.jpg",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\tupian.jpg"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_msg_btn_pressed.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_msg_btn_pressed.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_29.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_29.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_87.png",
@@ -488,16 +676,8 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_189.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\cancel.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_to_short.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_to_short.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_10.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_10.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_84.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_84.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_59.png",
@@ -508,8 +688,8 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\d2.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_183.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_183.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_74.png",
@@ -524,28 +704,32 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_87.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_183.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_183.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp7.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp7.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_49.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_49.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_184.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_184.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_35.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_35.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_194.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_194.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_49.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_49.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_bar.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_13.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_13.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_bar.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_41.png",
@@ -556,16 +740,16 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_182.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_btn_nor.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_btn_nor.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_61.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_61.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_81.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_81.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_37.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_37.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_pressed.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_pressed.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp1.png",
@@ -580,12 +764,8 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_quxiao_focused.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backwclick.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\backwclick.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_11.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_11.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_32.png",
@@ -600,36 +780,20 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v1.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v1.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_15.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_15.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_contact_normal.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_contact_normal.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_13.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_13.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_focused.9.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_23.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_23.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_19.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_19.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_26.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_26.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_67.png",
@@ -644,36 +808,36 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_42.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_22.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_22.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp5.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp5.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_btn_disable.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_btn_disable.9.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp6.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp6.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_187.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_187.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_69.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_69.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v_anim3.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v_anim3.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_17.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_17.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_187.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_187.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_188.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_188.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaohei_big.jpg",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\xiaohei_big.jpg"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_65.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_65.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_60.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_60.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaohei_big.jpg",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\xiaohei_big.jpg"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_to_short.png",
@@ -682,10 +846,6 @@
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_1.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_1.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_14.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_14.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
@@ -700,28 +860,248 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f3.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_70.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_70.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin.jpg",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\weixin.jpg"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_28.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_28.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp1.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp1.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_45.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_45.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_91.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_91.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_82.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_82.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_193.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_193.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_65.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_65.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_compose_normal.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_compose_normal.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_14.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_14.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_34.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_34.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_19.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_19.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_72.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_72.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_64.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_64.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v_anim2.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v_anim2.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_pressed.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_to_short.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_to_short.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_10.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_10.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_compose_normal.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_compose_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v5.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v5.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_179.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_179.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_183.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_183.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_194.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_194.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_37.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_37.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_pressed.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_pressed.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\face_del_ico_pressed.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backwclick.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\backwclick.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_180.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_180.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v1.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v1.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_15.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_15.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_contact_normal.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_contact_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_196.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_196.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_75.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_75.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_13.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_13.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_36.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_36.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_23.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_23.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_19.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_19.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_33.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_33.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_22.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_22.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp5.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp5.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v7.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v7.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_14.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_14.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v_anim3.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v_anim3.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_18.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_18.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_60.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_60.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_loading_bg.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\dialog_loading_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_14.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_14.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_73.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_73.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_63.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_63.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin.jpg",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\weixin.jpg"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_179.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_179.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_45.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_45.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_63.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_63.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_focused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_focused.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_76.png",
@@ -730,10 +1110,6 @@
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_contact_normal.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_contact_normal.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_transparent.png",
@@ -748,8 +1124,12 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v6.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_10.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_10.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_transparent.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\bg_transparent.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_58.png",
@@ -760,28 +1140,32 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_69.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_58.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_58.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_67.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_67.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_58.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_58.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_36.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_36.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_cancel_bg.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_35.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_35.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg_default.jpg",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chat_bg_default.jpg"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_29.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_29.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg_default.jpg",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chat_bg_default.jpg"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tupian.jpg",
@@ -792,52 +1176,48 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_45.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d2.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\d2.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp3.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp3.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_selected.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp3.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp3.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_186.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_186.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_191.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_191.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_25.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_25.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_12.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_12.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_normal.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_normal.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint_bg.9.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint_bg.9.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_cancel_bg_focused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg_focused.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_unfocused.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_function_bg.9.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_function_bg.9.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_dir.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_17.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_17.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_12.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_12.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_51.png",
@@ -848,40 +1228,40 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_187.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp4.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp4.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_shanchu_focused.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_shanchu_focused.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_191.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_191.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_normal.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_normal.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_187.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_187.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_focused.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_focused.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_18.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_18.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_88.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_88.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_23.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_23.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shuaige.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\shuaige.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_182.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_182.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_190.png",
@@ -896,32 +1276,32 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_18.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_194.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_194.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_btn_nor.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\camera_btn_nor.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_51.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_51.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\camera_btn_nor.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\camera_btn_nor.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_44.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_44.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint_bg.9.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint_bg.9.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_msg_btn_focused.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_msg_btn_focused.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_32.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_32.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint_bg.9.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_67.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_67.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_21.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_21.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_edit_normal.9.png",
@@ -932,12 +1312,244 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_192.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_53.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_53.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tab_address_normal.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\tab_address_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_focused.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_181.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_181.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_46.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_46.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_51.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_51.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_63.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_63.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_61.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_61.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_pressed.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_59.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_59.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_42.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_42.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_79.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_79.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_89.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_89.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_75.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_75.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_195.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_195.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backw.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\backw.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_15.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_15.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaohei.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\xiaohei.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_cancel_bg_focused.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg_focused.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_193.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_193.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_64.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_64.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_62.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_62.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_33.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_33.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_65.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_65.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_68.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_68.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_81.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_81.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg_default.jpg",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chat_bg_default.jpg"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_78.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_78.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_22.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_22.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_msg_btn_normal.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_msg_btn_normal.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_search.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_37.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_37.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_cancel_bg.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp3.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp3.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_32.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_32.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_186.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_186.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_88.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_88.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\adj.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\adj.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint_bg.9.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint_bg.9.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_function_bg.9.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_function_bg.9.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pic_dir.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pic_dir.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_17.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_17.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v_anim3.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v_anim3.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_18.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_18.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_88.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_88.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_182.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_182.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp5.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp5.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_194.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_194.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_dafeult.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\face_del_ico_dafeult.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_44.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_44.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_39.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_39.png"
+    },
+    {
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_32.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_32.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_btn_nor.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_btn_nor.9.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_63.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_63.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_focused.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_queding_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp7.png",
@@ -946,6 +1558,10 @@
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_focused.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_70.png",
@@ -960,28 +1576,28 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_msg_btn_focused.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_46.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_46.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_unselected.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_63.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_63.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_61.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_61.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_pressed.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_pressed.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_40.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_40.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_197.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_197.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp7.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp7.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg_default.jpg",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chat_bg_default.jpg"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_43.png",
@@ -992,28 +1608,24 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_52.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_75.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_75.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_addpic_unfocused.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_addpic_unfocused.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_40.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_40.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_53.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_53.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_59.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_59.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_queding_unfocused.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_queding_unfocused.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_59.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_59.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_53.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_53.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_56.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_56.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_66.png",
@@ -1024,80 +1636,56 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_56.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_38.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_38.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_53.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_53.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_15.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_15.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp6.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp6.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_cancel_bg_focused.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg_focused.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_193.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_193.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backwclick.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\backwclick.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp2.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp2.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_normal.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_normal.png"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d1.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\d1.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_64.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_64.png"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_normal.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_normal.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_pressed.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_33.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_33.png"
+        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_no.png",
+        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_38.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_38.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_65.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_65.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_no.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
-    },
-    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_face_pressed.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\iv_face_pressed.9.png"
-    },
-    {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_88.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_88.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_data_select.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
     },
     {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_68.png",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_68.png"
-    },
-    {
-        "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_bg_default.jpg",
-        "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chat_bg_default.jpg"
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_88.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_88.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_90.png",
@@ -1108,20 +1696,36 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_79.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_28.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_28.png"
-    },
-    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_biaoqing_btn_normal.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_biaoqing_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_28.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_28.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_76.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_76.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint_bg.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint_bg.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v1.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v1.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\d1.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\d1.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_71.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_71.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_74.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_74.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_49.png",
@@ -1130,6 +1734,10 @@
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\picture_unselected.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\picture_unselected.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_btn_function.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_btn_function.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
@@ -1144,6 +1752,14 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_54.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_91.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_91.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v_anim1.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v_anim1.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_61.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_61.png"
     },
@@ -1154,6 +1770,10 @@
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_80.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_80.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
@@ -1168,8 +1788,20 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_69.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_normal.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_normal.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_72.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_72.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_pressed.png",
@@ -1180,16 +1812,28 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_34.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_80.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_80.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\weixin.jpg",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\weixin.jpg"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_quxiao_unfocused.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_80.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_80.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_48.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_48.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_90.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_90.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_90.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_90.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_57.png",
@@ -1198,6 +1842,10 @@
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\iv_face_pressed.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\iv_face_pressed.9.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_47.png",
@@ -1220,28 +1868,44 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp4.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_19.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_19.png"
-    },
-    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_54.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_54.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_19.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_19.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_64.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_64.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_181.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_181.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_185.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_185.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_cancel_bg.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_cancel_bg.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_181.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_181.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\me.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\me.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\rcd_cancel_icon.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\rcd_cancel_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cancel.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\cancel.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_66.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_66.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\face_del_ico_pressed.png",
@@ -1264,12 +1928,20 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_focused.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_86.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_86.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_60.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_60.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_26.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_26.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_11.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_11.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_86.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_86.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_focused.png",
@@ -1296,12 +1968,28 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_24.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_76.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_76.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_bar.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\title_bar.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_1.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_1.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_rcd_hint.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_rcd_hint.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_msg_btn_focused.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_msg_btn_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_82.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_82.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chat_footer_bg.png",
@@ -1312,16 +2000,32 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_38.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_190.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_190.png"
-    },
-    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backw.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\backw.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_190.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_190.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_12.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_12.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_37.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_37.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_data_select.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_data_select.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_87.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_87.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_68.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_68.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_compose_normal.png",
@@ -1332,32 +2036,64 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_195.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_no.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_186.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_186.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_20.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_20.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_192.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_192.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v_anim1.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v_anim1.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_no.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
+    },
+    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_voice_btn_focused.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_voice_btn_focused.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_24.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_24.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_86.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_86.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v4.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v4.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_43.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_43.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v5.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v5.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v4.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v4.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp2.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp2.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_msg_btn_normal.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_msg_btn_normal.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_45.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_45.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\amp2.png",
@@ -1372,12 +2108,20 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\amp1.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\voice_to_short.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\voice_to_short.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\v2.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\v2.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_focused.9.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_focused.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_40.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_40.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_35.png",
@@ -1396,28 +2140,48 @@
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\icon_shanchu_unfocused.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_10.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_10.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_pressed.9.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_10.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_10.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_71.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_71.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_bg_normal.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_bg_normal.9.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_197.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_197.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaohei_big.jpg",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\xiaohei_big.jpg"
-    },
-    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_72.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_72.png"
     },
     {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\xiaohei_big.jpg",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\xiaohei_big.jpg"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f2.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f2.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_182.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_182.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatfrom_bg_pressed.9.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatfrom_bg_pressed.9.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_54.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_54.png"
     },
     {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_42.png",
@@ -1448,20 +2212,32 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pictures_selected.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_55.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_55.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\renma.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\renma.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_82.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_82.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\pictures_no.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\pictures_no.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_1.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_1.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_26.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_26.png"
-    },
-    {
         "merged": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abaose.png",
         "source": "D:\\software\\Android\\workspace\\AudioDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\abaose.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_26.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_26.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\title_function_bg.9.png",
@@ -1476,6 +2252,14 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
     },
     {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing.png"
+    },
+    {
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_49.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_49.png"
+    },
+    {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\dialog_loading_bg.9.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\dialog_loading_bg.9.png"
     },
@@ -1488,12 +2272,16 @@
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\xiaohei.png"
     },
     {
-        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
-        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
+        "merged": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatting_setmode_msg_btn_pressed.png",
+        "source": "C:\\Users\\liweijie\\Desktop\\ChatDemo\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatting_setmode_msg_btn_pressed.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\emoji_179.png",
         "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\emoji_179.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\chatto_voice_playing_f1.png",
+        "source": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\src\\main\\res\\drawable-hdpi\\chatto_voice_playing_f1.png"
     },
     {
         "merged": "C:\\Users\\user\\Desktop\\WeixinDemo1\\MyChat\\weixinDemo\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_quxiao_unfocused.png",

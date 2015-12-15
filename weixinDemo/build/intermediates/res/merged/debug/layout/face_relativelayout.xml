@@ -117,4 +117,4 @@
             android:orientation="horizontal"></LinearLayout>
     </RelativeLayout>
 
-</com.example.weixindemo.view.FaceRelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/face_relativelayout.xml -->
+</com.example.weixindemo.view.FaceRelativeLayout>

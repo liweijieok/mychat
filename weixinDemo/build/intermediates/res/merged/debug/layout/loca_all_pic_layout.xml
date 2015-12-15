@@ -96,4 +96,4 @@
             android:textColor="@color/login_btn_text_color"/>
     </LinearLayout>
 
-</RelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/loca_all_pic_layout.xml -->
+</RelativeLayout>

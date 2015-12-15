@@ -68,4 +68,4 @@
             android:text="取消" />
     </LinearLayout>
 
-</RelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/item_popubwindows.xml -->
+</RelativeLayout>

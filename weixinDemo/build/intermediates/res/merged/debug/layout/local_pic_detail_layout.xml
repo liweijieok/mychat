@@ -46,4 +46,4 @@
         android:verticalSpacing="3dp">
     </GridView>
 
-</RelativeLayout><!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/layout/local_pic_detail_layout.xml -->
+</RelativeLayout>

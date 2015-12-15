@@ -4,4 +4,3 @@
     <item android:drawable="@drawable/v_anim1" android:duration="300"></item>
     <item android:drawable="@drawable/v_anim2" android:duration="300"></item>
 </animation-list>
-<!-- From: file:/E:/software/Android/AndroidStudioProjects/MyChatDemo/weixinDemo/src/main/res/drawable/play_anim.xml -->
